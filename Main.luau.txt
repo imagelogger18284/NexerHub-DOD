@@ -1969,7 +1969,7 @@ local PremiumPrice = GetAssetPrice(1264479709) or 39
 -- YOU CAN GET PREMIUM FOR FREE BY ENTERING A KEY
 -- KEY IS IN MY DISCORD SERVER 😭🙏
 -- AAAAAAH!!!!!!!!!!!!
-local HavePremium = false
+local HavePremium = true
 if game:GetService("MarketplaceService"):UserOwnsGamePassAsync(LocalPlayer.UserId, 1264479709) then
 HavePremium = true
 end
