@@ -46,8 +46,8 @@ _G.API_last_update = "1/1/2026" -- last time update (dd/mm/yyyy)
 _G.dod_repository = "https://raw.githubusercontent.com/NewNexer/NexerHub/refs/heads/main/DOD/Main.luau" -- input repository for savings
 _G.global_module_main = "https://raw.githubusercontent.com/NewNexer/NexerHub/refs/heads/main/Global-Module.luau"
 _G.global_module_backup = "https://pastebin.com/raw/0yUmgPTd"
-_G.HasPremium = false -- don't change
-_G.HasGameBreakingFeaturesAccess = false -- don't change
+_G.HasPremium = true -- don't change
+_G.HasGameBreakingFeaturesAccess = true -- don't change
 _G.GlobalStartupFunctions = {} -- don't change
 _G.PremiumKeyAccess = "cheeseburger" -- key
 --[[ premium gamepasses:
